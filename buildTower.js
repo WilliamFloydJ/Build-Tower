@@ -19,4 +19,4 @@ const buildTower = (numLevel) => {
 
   return towerArr;
 };
-console.log(buildTower(5));
+console.log(buildTower(10));
